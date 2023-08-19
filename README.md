@@ -6,13 +6,9 @@ Write r=my_imfilter(s,filter,pad) a function that "filters" the source image (a 
 with the help of the function you wrote, you will perform smoothing and sharpening of the given image.
 
 Implement 3 types of padding
-
 Work on photos you took, transfer them to gray levels, size (256X256)
-
 Compare the result with running the cipher functions. What is the biggest difference? from where Where does the difference come from? Is it visually noticeable?
-
 Compare the performance against the library functions.
-
 Do not use library functions in the implementation.
 
 
