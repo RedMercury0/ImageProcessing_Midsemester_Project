@@ -1,7 +1,7 @@
 # ImageProcessing Midsemester Project
 
 ## Description
-This repository contains an implementation of the `imfilter()` function and a function called `my_compose` that combines two images using parts of their Most Significant Bits (MSB) and Least Significant Bits (LSB) of each pixel.
+This repository contains an implementation of the `imfilter()` function and a function called `my_compose()` that combines two images using parts of their Most Significant Bits (MSB) and Least Significant Bits (LSB) of each pixel.
 
 ### Part 1: Implementing the `imfilter` function
 - Implement a function `r=my_imfilter(s, filter, pad)` that filters the source image (a square matrix of some size) according to a given filter.
